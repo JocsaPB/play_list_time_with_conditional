@@ -1,0 +1,9 @@
+{
+    "name": "Youtube Playlist Time",
+    "version": "1.0",
+    "description": "Exibe o tempo total de uma playlist do youtube, com condicional de apenas vídeos não assistídos ou não. Por default, considera todos. Displays the total time of a YouTube playlist, with only unassisted videos or not. By default, consider all.",
+    "browser_action": {
+        "default_popup": "index.html"
+    },
+    "manifest_version": 2
+}
